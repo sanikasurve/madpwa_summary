@@ -8,6 +8,6 @@
 | Exp 5    | Firebase Authentication Service | https://github.com/sanikasurve/madpwa_exp5 |
 | Exp 6    | Routes and Consume API | https://github.com/sanikasurve/madpwa_exp6 |
 | Exp 7    | Navigation Drawer | https://github.com/sanikasurve/madpwa_exp7 |
-| Mini Proj  | Mini Project   |    |
+| Mini Proj  | Mini Project   | https://github.com/sanikasurve/flutterminiproj |
 
 
